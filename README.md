@@ -21,8 +21,6 @@ During my professional and academic careers, I have excelled in challenging posi
 
 ![Helpful Skelly Master Character Pixel Art](./Media/Skelly_Character_Master.png)
 
-![Helpful Skelly Master Character Sheet](./Media/Skelly Character Master.png)
-
 -Asteroids VR: A game pitch I created alongside two colleagues from Full Sail University that showcases my flexibility and creativity in creating games. As a class assignment, we were tasked with creating a game pitch and proposal. _Asteroids VR_ is a virtual reality take on the original _Asteroids_ game where the player takes on the role of the gunner in the infamous triangle spaceship. The player must rotate the ship's turret to eliminate all asteroids and enemy spaceships to prevent their ship from being destroyed. The game targeted ages 20-35 who do not necessarily have much time to play games and would enjoy a nostalgic theme during gameplay. Mid_Fidelity prototype screens made with Figma.
 
 # Contact
