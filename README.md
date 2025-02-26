@@ -2,7 +2,7 @@
 Hello and welcome to my portfolio! Here you will find a display of personal, professional, and academic development projects I have worked on as I pursue a career in Software Engineering and Game Development.
 
 ## About Me
-During my professional and academic careers, I have excelled in challenging positions that have developed my hard and soft skillset. I have been crafted into a focused and motivated professional that has experience building teams that consistently exceed goals and push the limits of their capabilities. [Read More]()
+During my professional and academic careers, I have excelled in challenging positions that have developed my hard and soft skillset. I have been crafted into a focused and motivated professional that has experience building teams that consistently exceed goals and push the limits of their capabilities. [Read More](./About_Me.md)
 
 # Featured Projects
 - Bullet Typhoon Game Prototype: A repository link to a Fast Paced First Person 3D Platformer I am developing with a team from Full Sail University. _This Project is still in development._
